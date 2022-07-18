@@ -16,4 +16,4 @@ Check out my [**art portfolio.**](https://instagram.com/nic_hase)
 
 <br>
 
-### thanks for coming 👋
+### thanks 👋
