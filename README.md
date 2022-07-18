@@ -1,5 +1,4 @@
 ### Hi there i'm **Nicolas Prothero** 👋
-
 ### I'm a student at the University of Florida studying **Computer Science** and **Graphic Design**.
 <br>
 
