@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there i'm **Nicolas Prothero** 👋
 
-<!--
-**nicolasprothero/nicolasprothero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a student at the University of Florida studying **Computer Science** and **Graphic Design**.
+<br>
 
-Here are some ideas to get you started:
+**💻 Want to see my personal web projects?**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [**portfolio website.**](https://nicolasprothero.com)
+
+<br>
+
+
+**🎨 Want to check out my art and design?**
+
+Check out my [**art portfolio.**](https://instagram.com/nic_hase)
