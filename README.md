@@ -10,9 +10,9 @@ Check out my [**portfolio website.**](https://nicolasprothero.com)
 <br>
 
 
-**🎨 Want to check out my art and design?**
+**🎨 Want to check out my web design portfolio?**
 
-Check out my [**art portfolio.**](https://instagram.com/nic_hase)
+Check out my [**art portfolio.**](https://nichase.com/)
 
 <br>
 
