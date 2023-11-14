@@ -12,7 +12,7 @@ Check out my [**portfolio website.**](https://nicolasprothero.com)
 
 **🎨 Want to check out my web design portfolio?**
 
-Check out my [**art portfolio.**](https://nichase.com/)
+Check out my [**web design portfolio.**](https://nichase.com/)
 
 <br>
 
