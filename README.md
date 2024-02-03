@@ -9,11 +9,4 @@ Check out my [**portfolio website.**](https://nicolasprothero.com)
 <br>
 <br>
 
-
-**🎨 Want to check out my web design portfolio?**
-
-Check out my [**web design portfolio.**](https://nichase.com/)
-
-<br>
-
 ### thanks !!
